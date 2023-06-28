@@ -15,4 +15,4 @@
 yandexmap.js<br>
 
 Стек используемый в работе:<br>
-HTML / CSS / JavaScript / Figma / Pixel Perfect / Git.<br>
+HTML / CSS / JavaScript / Figma / Pixel Perfect / Git
